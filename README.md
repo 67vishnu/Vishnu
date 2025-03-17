@@ -48,5 +48,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/67vishnu/Detection-Lab">Detection Lab</a>  Detection Lab
+- <a href="https://github.com/67vishnu/Detection-Lab">Detection Lab</a>  
 - SOC Automation Project
